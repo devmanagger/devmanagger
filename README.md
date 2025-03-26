@@ -14,35 +14,39 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
+<div align="center" style="background-color:#1E1E1E; padding:20px; border-radius:10px;">
+
 ### 🏗️ **Bases y Lenguajes**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript" />
+<p align="center" style="display:flex; justify-content:space-between;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript" style="box-shadow:0px 4px 8px rgba(0,0,0,0.2); border-radius:50%;"/>
 </p>
 
 ### ⚡ **Librerías y Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,redux" alt="React, React Native, Next.js, Node.js, Redux" />
+<p align="center" style="display:flex; justify-content:space-between;">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,redux" alt="React, React Native, Next.js, Node.js, Redux" style="box-shadow:0px 4px 8px rgba(0,0,0,0.2); border-radius:50%;"/>
 </p>
 
 ### 📂 **Bases de Datos y Autenticación**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" alt="Firebase, Supabase" />
+<p align="center" style="display:flex; justify-content:space-between;">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" alt="Firebase, Supabase" style="box-shadow:0px 4px 8px rgba(0,0,0,0.2); border-radius:50%;"/>
 </p>
 
 ### 🎨 **Estilos y Diseño**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" alt="Tailwind, Sass, Figma" />
+<p align="center" style="display:flex; justify-content:space-between;">
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" alt="Tailwind, Sass, Figma" style="box-shadow:0px 4px 8px rgba(0,0,0,0.2); border-radius:50%;"/>
 </p>
 
 ### 🌍 **APIs y Servicios**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rest,axios" alt="API REST, Axios" />
+<p align="center" style="display:flex; justify-content:space-between;">
+  <img src="https://skillicons.dev/icons?i=rest,axios" alt="API REST, Axios" style="box-shadow:0px 4px 8px rgba(0,0,0,0.2); border-radius:50%;"/>
 </p>
 
 ### 🛠️ **Herramientas de Desarrollo**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+<p align="center" style="display:flex; justify-content:space-between;">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" style="box-shadow:0px 4px 8px rgba(0,0,0,0.2); border-radius:50%;"/>
 </p>
+
+</div>
 
 ---
 
