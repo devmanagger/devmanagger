@@ -2,17 +2,13 @@
 
 ![Banner](./IMG_1366.JPG)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&width=450&lines=Desarrollador+Frontend+en+React+Native;Especializado+en+TypeScript+y+Expo;Siempre+aprendiendo+y+optimizando+mi+código!" alt="Typing SVG" />
-</p>
-
 ---
 
-## 🚀 Sobre mí
+## 🚀 Desarrollador Frontend en React Native
 
-Soy un desarrollador frontend apasionado por **React Native** y la creación de aplicaciones móviles modernas y escalables. Me gusta trabajar con **TypeScript**, **Expo**, y herramientas como **Redux** y **Zustand** para gestionar el estado de manera eficiente. También me enfoco en **UI/UX**, asegurando que mis aplicaciones sean intuitivas y atractivas.  
-
-Siempre estoy explorando nuevas tecnologías y optimizando mi flujo de trabajo. Si tienes un proyecto interesante, ¡hablemos! 🚀
+📍 **Ubicación:** Kiev, Ucrania  
+💻 **Especializado en:** Desarrollo móvil con React Native, TypeScript y Expo  
+🎯 **Objetivo:** Crear aplicaciones escalables y optimizadas
 
 ---
 
@@ -20,64 +16,78 @@ Siempre estoy explorando nuevas tecnologías y optimizando mi flujo de trabajo. 
 
 ### 🏗️ **Bases y Lenguajes**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="40" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript" />
 </p>
 
-### 📚 **Librerías y Frameworks**
+### ⚡ **Librerías y Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,expo,nodejs" height="40" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,redux" alt="React, React Native, Next.js, Node.js, Redux" />
 </p>
 
-### 🛢️ **Bases de Datos y Autenticación**
+### 📂 **Bases de Datos y Autenticación**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="40" alt="Bases de Datos" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" alt="Firebase, Supabase" />
 </p>
 
 ### 🎨 **Estilos y Diseño**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" height="40" alt="Estilos" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" alt="Tailwind, Sass, Figma" />
 </p>
 
-### 🔧 **Herramientas y Control de Versiones**
+### 🌍 **APIs y Servicios**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" height="40" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=rest,axios" alt="API REST, Axios" />
+</p>
+
+### 🛠️ **Herramientas de Desarrollo**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
 </p>
 
 ---
 
-## 🏆 Proyectos Destacados
+## 🏆 Habilidades Técnicas
+✔ Desarrollo en **React Native** con **Expo** y **TypeScript**  
+✔ Manejo de estado con **Redux** y **Zustand**  
+✔ Consumo de **APIs REST** con **Axios**  
+✔ Base de datos con **Firebase** y **Supabase**  
+✔ Diseño con **Tailwind CSS**, **Sass** y **Styled Components**  
+✔ UI/UX con **Figma**
 
-### 🎬 Aplicación de Películas
+---
+
+## 🌟 Proyectos Destacados
+
+### 🎬 **Aplicación de Películas**
 - **Framework:** React Native + Expo Router
 - **API:** The Movie Database (TMDb)
 - **Funciones:** Búsqueda, categorías, favoritos, modo oscuro
 
-### 💰 Wallet de Inversión
+### 💰 **Wallet de Inversión**
 - **Framework:** React Native + Expo Router
 - **Funciones:** Perfil interactivo, estadísticas, historial de inversiones
 
 ---
 
 ## 📊 Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smithmoreno12&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smithmoreno12&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smithmoreno12&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smithmoreno12&theme=radical" />
 </p>
 
 ---
 
 ## 🌐 Conéctate conmigo
-
 <p align="center">
   <a href="https://www.linkedin.com/in/smithmoreno12">
-    <img src="https://img.shields.io/badge/LinkedIn-SmithMoreno-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-SmithMoreno-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/smithmoreno12">
-    <img src="https://img.shields.io/badge/GitHub-smithmoreno12-black?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-smithmoreno12-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.reddit.com/user/Illustrious_Boat_361/">
-    <img src="https://img.shields.io/badge/Reddit-smithmoreno12-orange?style=flat-square&logo=reddit" alt="Reddit" />
+    <img src="https://img.shields.io/badge/Reddit-smithmoreno12-orange?style=for-the-badge&logo=reddit" />
   </a>
 </p>
 
